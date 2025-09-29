@@ -5,9 +5,9 @@ Je vous propose la correction en **Python**, **C++**, **Golang** (*tous ne sont 
 ## Exercices : 
 
 ### 1. Variables et affichage
-Exercice 1.1 : Déclarez une variable nom contenant votre prénom et une variable age contenant votre âge. Affichez-les à l'écran.
-\n Exercice 1.2 : Déclarez trois variables a, b, et c avec des valeurs numériques. Calculez leur somme et affichez le résultat.
-\n Exercice 1.3 : Demandez à l'utilisateur de saisir son prénom et son nom, puis affichez-les en une seule ligne.
+- Exercice 1.1 : Déclarez une variable nom contenant votre prénom et une variable age contenant votre âge. Affichez-les à l'écran.
+- Exercice 1.2 : Déclarez trois variables a, b, et c avec des valeurs numériques. Calculez leur somme et affichez le résultat.
+- Exercice 1.3 : Demandez à l'utilisateur de saisir son prénom et son nom, puis affichez-les en une seule ligne.
 
 ________________________________________
 
