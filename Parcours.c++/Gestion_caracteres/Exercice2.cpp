@@ -1,4 +1,3 @@
-// Ajouter le code !!
 #include <iostream>
 #include <string>
 
